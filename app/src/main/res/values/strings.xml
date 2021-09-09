@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">repeatAnyLessons</string>
+    <string name="update_model">update model</string>
 </resources>
